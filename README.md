@@ -1,6 +1,6 @@
-# Twitch Fake View Analyst
+# Twitch Chat Tool
 
-Twitch Fake View Analyst is a **[Python](https://www.python.org/)**-based repository designed to provide comprehensive analysis and monitoring capabilities for Twitch chat users. This repository offers a foundation for tracking general user activity, identifying fake users, and conducting in-depth analyses using **[pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI)**.
+Twitch Chat Tool is a **[Python](https://www.python.org/)**-based repository designed to provide comprehensive analysis and monitoring capabilities for Twitch chat users. This repository offers a foundation for tracking general chat activity, identifying fake users, and conducting in-depth analyses using **[pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI)**.
 
 The repository includes a Python file that allows you to monitor the joining and leaving patterns of users in Twitch chat. By collecting and analyzing this data, you can gain insights into user engagement and identify any suspicious or fake view activity.
 
